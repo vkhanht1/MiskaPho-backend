@@ -11,8 +11,13 @@ https://miska-pho-backend.vercel.app/
     Tech Stack:
 
 Runtime: Node.js
+
 Framework: Express.js
+
 Database: MongoDB Atlas
+
 ODM: Mongoose
+
 Security: JWT, Bcrypt.js
+
 Integrations: Stripe SDK, Cloudinary, Multer
